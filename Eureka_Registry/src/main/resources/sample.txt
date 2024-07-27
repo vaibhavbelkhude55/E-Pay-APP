@@ -1,0 +1,6 @@
+java -jar EmployeeRegistration-0.0.1-SNAPSHOT.war
+java -jar EmployeeRegistration-0.0.1-SNAPSHOT.war
+
+
+========================================
+http://192.168.57.49:8761/
